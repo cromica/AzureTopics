@@ -1,0 +1,10 @@
+D:\Work\Git\AzureTopics\AzureTopics\bin\Debug\AzureTopics.exe.config
+D:\Work\Other Projects\AzureTopics\AzureTopics\bin\Debug\AzureTopics.exe.config
+D:\Work\Other Projects\AzureTopics\AzureTopics\obj\Debug\AzureTopics.csprojResolveAssemblyReference.cache
+D:\Work\Other Projects\AzureTopics\AzureTopics\bin\Debug\AzureTopics.exe
+D:\Work\Other Projects\AzureTopics\AzureTopics\bin\Debug\AzureTopics.pdb
+D:\Work\Other Projects\AzureTopics\AzureTopics\bin\Debug\Microsoft.ServiceBus.dll
+D:\Work\Other Projects\AzureTopics\AzureTopics\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Work\Other Projects\AzureTopics\AzureTopics\bin\Debug\Microsoft.ServiceBus.xml
+D:\Work\Other Projects\AzureTopics\AzureTopics\obj\Debug\AzureTopics.exe
+D:\Work\Other Projects\AzureTopics\AzureTopics\obj\Debug\AzureTopics.pdb
