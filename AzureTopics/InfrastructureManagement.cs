@@ -11,7 +11,7 @@ namespace AzureTopics
 {
     public class InfrastructureManagement
     {
-        public const string TopicPath = "Orders";
+        public const string TopicPath = "OrderSubscriptions";
 
         public static NamespaceManager Namespace
         {
